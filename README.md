@@ -3,8 +3,6 @@
 ## Description
 CashTrack is a financially intelligent progressive web application and budget tracker that allows users to enter names for their transactions, add funds to their budget, and delete funds from their budget.  CashTrack displays their money flow over time to make users more aware of their spending habits and trends.  Users can explore the website or downloaded the app version.  The app also provides offline functionality and access so that users never miss a dime!
 
-## Screenshot
-
 ## **Table of Contents**
 * [Screenshot](#screenshot)
 * [Programs](#programs)
